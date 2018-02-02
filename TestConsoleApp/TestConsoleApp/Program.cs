@@ -10,8 +10,8 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a second commit");
-            Console.WriteLine("Hello! this is an added comment");
+            Console.WriteLine("This is commit to third branch");
+            Console.WriteLine("Hello! this is an added comment for third branch");
             Console.ReadKey();
         }
     }
