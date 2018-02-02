@@ -11,6 +11,7 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is a second commit");
+            Console.WriteLine("Hello! this is an added comment");
             Console.ReadKey();
         }
     }
