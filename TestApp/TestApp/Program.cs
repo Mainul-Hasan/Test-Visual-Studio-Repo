@@ -10,7 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is my first commit");
+            Console.WriteLine("This is my second commit");
         }
     }
 }
